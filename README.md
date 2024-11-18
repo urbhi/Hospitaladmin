@@ -27,8 +27,6 @@ This repository showcases a **Dashboard Application** developed using the **MERN
 - **Frontend**: React, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- *
-
----
+  
 
 
