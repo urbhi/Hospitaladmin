@@ -1,10 +1,10 @@
-# 📊 Dashboard Repository  
+#  Dashboard Repository  
 
 This repository showcases a **Dashboard Application** developed using the **MERN stack** (MongoDB, Express.js, React, Node.js). It highlights the strengthened expertise in modern web development technologies, acquired through intensive workshops and real-world implementations. The project demonstrates the creation of a robust, dynamic, and user-friendly dashboard that streamlines workflows and saves significant project time.  
 
 ---
 
-## 🔥 Features  
+##  Features  
 
 ### 1. **Dynamic Dashboard Interface**  
 - Intuitive UI for displaying key metrics and data visualizations.  
